@@ -81,7 +81,7 @@
 - **Tech:** PHP, Laravel, Vuetify, Docker, PostgreSQL.  
 - **Repo:** [Systock](https://github.com/LuizGabs/Systock-Desafio)
   
-### 4) Serviço de Psicologia — **réplica didática pública** *Django REST + Google Drive*
+### 4) Serviço de Psicologia — **réplica didática pública** *(Django REST + Google Drive)*
 - **Descrição:** Backend em Python com integração à Google Drive API, inspirada no projeto real (sem conteúdo sigiloso).  
 - **Tech:** Python, Django REST Framework, PostgreSQL.  
 - **Repo:** [Projeto Saúde Mental](https://github.com/LuizGabs/saudemental-clean)
